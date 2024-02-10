@@ -1,0 +1,1 @@
+# Scraping advertise house in divar and save in a file.
